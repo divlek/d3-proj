@@ -1,0 +1,7 @@
+#chart-area {
+  border: 1px solid blue;
+}
+
+#chart-area svg {
+  border: 1px solid pink;
+}

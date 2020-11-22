@@ -1,0 +1,11 @@
+svg {
+  margin: 20px;
+}
+
+#chart-area {
+  border: 1px solid green;
+}
+
+#bar-chart-area {
+  border: 1px solid midnightblue;
+}
